@@ -1,0 +1,7 @@
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/sparkapi/exceptions/InternalServerException.java
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/controllers/ExceptionController.java
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/sparkapi/exceptions/NotValidDataException.java
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/sparkapi/exceptions/NotValidKeyException.java
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/sparkapi/exceptions/ResourceNotFoundException.java
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/sparkapi/App.java
+/home/ospite/00_API/workspace-java/HelloApi/src/main/java/com/example/sparkapi/utils/JsonTransformer.java
